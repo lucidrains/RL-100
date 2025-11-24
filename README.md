@@ -1,3 +1,5 @@
+<img src="./fig2.png" width="450px"></img>
+
 ## RL-100 (wip)
 
 Implementation of [RL-100](https://arxiv.org/abs/2510.14830), Performant Robotic Manipulation with Real-World Reinforcement Learning, out of China
